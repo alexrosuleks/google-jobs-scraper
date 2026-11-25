@@ -1,0 +1,14 @@
+{
+  "query": "Software Engineer",
+  "location": "San Francisco, CA",
+  "maxResults": 10,
+  "country": "us",
+  "googleDomain": "google.com",
+  "postedWithin": "any",
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
